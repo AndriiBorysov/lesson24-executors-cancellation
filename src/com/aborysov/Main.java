@@ -15,4 +15,8 @@ public class Main {
 
         return result;
     }
+
+    public static float square(float value) {
+        return value * value;
+    }
 }
